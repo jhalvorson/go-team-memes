@@ -1,0 +1,7 @@
+{
+  "name": "go-team-memes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jamie Halvorson <j.halvorson@fairfx.com>",
+  "license": "MIT"
+}
